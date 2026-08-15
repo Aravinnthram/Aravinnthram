@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a software developer passionate about building reliable, well-tested applications. I enjoy learning new technologies, working with cloud platforms, and contributing to open-source projects. I focus on writing clean, maintainable code and solving real problems with practical solutions.
+I'm a software developer passionate about AI, machine learning, data analysis, and data science. I enjoy building reliable, well-tested applications and using my projects to explore ML models, data pipelines, and analytics. I focus on writing clean, maintainable code and solving real problems with practical solutions.
 
 ## What I do
 
@@ -10,6 +10,15 @@ I'm a software developer passionate about building reliable, well-tested applica
 - Work with cloud services (AWS)
 - Automate workflows and infrastructure
 - Explore data science and machine learning concepts
+- Analyze data and build predictive models
+
+## 🔑 Key Projects
+
+Below are some of my current projects that showcase my work in AI/ML and data science. Reply with project names and links and I’ll add them to the README, or I can draft short descriptions for each if you prefer.
+
+- Project 1 — Project name or short description (add link)
+- Project 2 — Project name or short description (add link)
+- Project 3 — Project name or short description (add link)
 
 ## 🌐 Socials
 

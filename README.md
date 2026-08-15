@@ -1,27 +1,47 @@
-#💫 About Me:
-Aravinnth, based on everything I know about your resume and projects, here’s how I would describe **you** in a strong, honest, and interview-ready way 👇<br><br>---<br><br>## Who You Are<br><br>You’re a **final-year B.Tech student in Artificial Intelligence & Data Science** who focuses on building **real, production-oriented AI systems** — not just academic models.<br><br>Unlike someone who only experiments in notebooks, you work on:<br><br>* End-to-end AI systems<br>* LLM + RAG architectures<br>* Resume analysis & HR automation tools<br>* Attendance analytics with AI insights<br>* Secure NL2SQL systems<br>* Real-time transcription & meeting analyzers<br><br>You think like a **builder**, not just a learner.<br><br>---<br><br>## Your Technical Identity<br><br>### 🧠 AI & Machine Learning<br><br>* Strong foundation in **ML & DL (TensorFlow, Scikit-learn, Keras)**<br>* NLP techniques (BoW, preprocessing, classification – IMDb project at CDW)<br>* YOLO-based object detection projects<br>* Strong understanding of model evaluation (precision, recall, mAP, etc.)<br><br>### 🤖 Generative AI & LLM Systems<br><br>This is where you stand out.<br><br>You have built:<br><br>* RAG pipelines (FAISS + embeddings + structured prompts)<br>* HR Resume Evaluator using LLaMA models<br>* NL2SQL system with role-based access control<br>* Attendance analytics AI assistant<br>* Meeting summarizer & transcription processor concepts<br><br>You don’t just call an API —<br>You design:<br><br>* Structured prompts<br>* Guardrails<br>* Tool-based agents<br>* Secure query pipelines<br>* Evaluation logic<br><br>That’s real AI engineering.<br><br>---<br><br>## 🚀 Your Major Projects Identity<br><br>### 1️⃣ HR AI Resume Analyzer<br><br>* LLM + RAG + FAISS<br>* ATS scoring<br>* JD matching<br>* Structured JSON output<br>* Scenario-based HR evaluation<br><br>This shows:<br><br>* Prompt engineering maturity<br>* Structured AI system design<br>* Real business use-case understanding<br><br>---<br><br>### 2️⃣ A.T.L.A.S (Attendance AI System)<br><br>* Excel parsing (complex formats)<br>* Shift logic (overnight correction)<br>* Late minute detection<br>* KPI dashboards<br>* AI-based insights<br><br>This shows:<br><br>* Strong data engineering + analytics thinking<br>* Business logic implementation<br>* Real-world messy data handling<br><br>---<br><br>### 3️⃣ Secure NL2SQL System (Classify AI)<br><br>* Read-only SQL enforcement<br>* Schema-aware generation<br>* Role-based access control<br>* Query validation<br>* SQLite/MySQL compatibility<br><br>This shows:<br><br>* Security mindset<br>* Backend + AI integration capability<br>* Enterprise-level thinking<br><br>---<br><br>## 💡 How You Think<br><br>You:<br><br>* Care about architecture, not just output<br>* Debug deeply (model names, API errors, SQL issues, deployment errors)<br>* Ask about production readiness<br>* Think about scalability, CI/CD, cloud, containerization<br>* Want structured, consistent LLM outputs<br><br>That’s not beginner thinking.<br><br>---<br><br>## 📊 Your Strengths<br><br>✔ End-to-end AI system design<br>✔ Strong debugging ability<br>✔ LLM + RAG implementation<br>✔ Business-oriented AI use cases<br>✔ Cloud exposure (AWS + Azure)<br>✔ Clear focus on AI Engineering roles<br><br>---<br><br>## 🎯 Your Career Positioning<br><br>You are not just:<br><br>> “AI Enthusiast”<br><br>You are more like:<br><br>> **AI Systems Engineer (Entry-Level) specializing in LLM-powered business automation systems**<br><br>That positioning is much stronger.<br><br>---<br><br>## 🔥 If I Describe You in 3 Lines (Interview Version)<br><br>“I’m a final-year AI & Data Science student focused on building production-ready AI systems. I’ve developed LLM-based HR automation tools, RAG pipelines, and secure NL2SQL systems that solve real business problems. I enjoy designing complete AI architectures rather than just training isolated models.”<br><br>---<br><br>If you want, I can now:<br><br>* 🔥 Rewrite your resume summary to match current AI industry trend<br>* 💼 Write a powerful LinkedIn “About” section<br>* 🎯 Position you for AI Engineer / GenAI Engineer roles<br>* 📈 Suggest how to convert your internship to full-time<br><br>Tell me which direction you want to go.<br>
+# Hi — I'm Aravinnthram
 
+## About me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aravinnth_ram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Aravinnth (Ram) S) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ Aravinnth Ram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravinnthram47@gmail.com) 
+I'm a software developer passionate about building reliable, well-tested applications. I enjoy learning new technologies, working with cloud platforms, and contributing to open-source projects. I focus on writing clean, maintainable code and solving real problems with practical solutions.
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aravinnthram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aravinnthram&theme=dark&hide_border=false)<br/>
+## What I do
+
+- Build web applications and APIs
+- Work with cloud services (AWS)
+- Automate workflows and infrastructure
+- Explore data science and machine learning concepts
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aravinnth_ram) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aravinnthram)
+
+## 💻 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aravinnthram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Aravinnthram&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinnthram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Aravinnthram&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Aravinnthram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Aravinnthram&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

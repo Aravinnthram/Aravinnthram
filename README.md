@@ -1,56 +1,37 @@
-# Hi — I'm Aravinnthram
+Hi — I'm Aravinnthram
 
-## About me
+About me
 
 I'm a software developer passionate about AI, machine learning, data analysis, and data science. I enjoy building reliable, well-tested applications and using my projects to explore ML models, data pipelines, and analytics. I focus on writing clean, maintainable code and solving real problems with practical solutions.
 
-## What I do
+What I do
 
-- Build web applications and APIs
-- Work with cloud services (AWS)
-- Automate workflows and infrastructure
-- Explore data science and machine learning concepts
-- Analyze data and build predictive models
+- Build ML models and predictive analytics
+- Design data pipelines and ETL workflows
+- Develop web apps and APIs to productize models
+- Work with cloud services (AWS) and MLOps tools
+- Explore data visualization and exploratory data analysis
 
-## 🔑 Key Projects
+Key Projects
 
-Below are some of my current projects that showcase my work in AI/ML and data science. Reply with project names and links and I’ll add them to the README, or I can draft short descriptions for each if you prefer.
+Project 1 — Project name or short description (add link)
+Project 2 — Project name or short description (add link)
+Project 3 — Project name or short description (add link)
 
-- Project 1 — Project name or short description (add link)
-- Project 2 — Project name or short description (add link)
-- Project 3 — Project name or short description (add link)
+Socials
 
-## 🌐 Socials
+Instagram: https://instagram.com/_aravinnth_ram
+LinkedIn: https://www.linkedin.com/in/aravinnthram
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aravinnth_ram) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aravinnthram)
+Tech Stack
 
-## 💻 Tech Stack
+AWS, Python, pandas, scikit-learn, TensorFlow / PyTorch, SQL, Docker
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+Notes
 
-## 📊 GitHub Stats
+This README has been converted to plain text (all Markdown formatting removed). If you'd like, I can:
+- Add actual project names and links you provide
+- Include a short professional title and years of experience
+- Reformat to lightweight markup (e.g., simple headings) or re-add badges/images
 
-![](https://github-readme-stats.vercel.app/api?username=Aravinnthram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Aravinnthram&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinnthram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Aravinnthram&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Aravinnthram&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Aravinnthram&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM (https://gprm.itsvg.in)
